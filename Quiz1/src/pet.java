@@ -12,7 +12,7 @@ public class pet {
 	
 	//Create Setter Method
 	public void setType() {
-		System.out.print("Enter the type of pet: ");
+		System.out.println("Enter the type of pet: ");
 		this.type = s.next();
 	}
 	
